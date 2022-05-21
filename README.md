@@ -1,4 +1,4 @@
-# Cyberpunk's hud in React
+# Cyberpunk's hud made with React
 
 Was bored so had a quick attempt at recreating some of the cyberpunk's hud
 
